@@ -2,7 +2,7 @@
 {
     "urls": [
         {
-            "url": "https://raw.gitcode.com/GGJKJ/ceshi/raw/main/js",
+            "url": "https://raw.githubusercontent.com/QQo5ib4xrv5/ceshiseshi/main/ceshi",
             "name": "xianlu1"
         },
       
