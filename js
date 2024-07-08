@@ -9,7 +9,7 @@
    {
       "name": "直播源",
       "type": 0,
-      "url": "https://raw.gitcode.com/GGJKJ/ceshi/raw/main/zhibo",
+      "url": "https://raw.gitcode.com/GGJKJ/ceshi/blob/main/zhibo",
       "playerType": 1,
       "ua": "okhttp/3.15",
       
