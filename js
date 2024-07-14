@@ -6,7 +6,7 @@
 "lives": 
   [
    {
-      "name": "公众号【晨瑞黑科】直播源",
+      "name": "直播源",
       "type": 0,
       "url": "https://raw.githubusercontent.com/QQo5ib4xrv5/ceshiseshi/main/ceshi",
       "playerType": 1,
