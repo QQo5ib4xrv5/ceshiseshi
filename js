@@ -15,8 +15,7 @@
       "url": "https://raw.gitcode.com/chenrui007/test/raw/main/%E7%9B%B4%E6%92%AD-%E9%80%82%E5%90%88%E5%85%A8%E9%83%A8%E4%BA%BA%E7%BE%A4",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+
    }
   ],
 
