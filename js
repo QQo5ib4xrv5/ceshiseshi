@@ -5,14 +5,14 @@
 //直播区
 "lives": 
   [
-   {
-      "name": "直播源",
+  {
+      "name": "live",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/QQo5ib4xrv5/ceshiseshi/main/ceshi",
+      "url": "https://github.com/QQo5ib4xrv5/ceshiseshi/raw/main/ceshi",
       "playerType": 1,
-      "ua": "okhttp/3.15",
-
-   }
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
   ],
 
 
