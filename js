@@ -8,7 +8,7 @@
    {
       "name": "公众号【晨瑞黑科】直播源",
       "type": 0,
-      "url": "https://raw.gitcode.com/chenrui007/test/raw/main/%E7%9B%B4%E6%92%AD-%E9%80%82%E5%90%88%E5%85%A8%E9%83%A8%E4%BA%BA%E7%BE%A4",
+      "url": "https://raw.githubusercontent.com/QQo5ib4xrv5/ceshiseshi/main/ceshi",
       "playerType": 1,
       "ua": "okhttp/3.15",
 
