@@ -1,9 +1,5 @@
 //源码包/壁纸全局
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716360806207/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89",
-  "spider": "http://router.bopop.buzz:9999/kxlib/md.jar",
-  "logo": "https://upload-bbs.miyoushe.com/upload/2022/04/19/76104219/bee46d7d0e64cdd9288ebe648c87c9c5_8549779036269743494.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif",
-  "wallpaper": "https://bing.img.run/rand.php",
 
 
 //直播区
